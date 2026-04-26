@@ -26,7 +26,6 @@ Unityで制作した一人称視点のお菓子の世界が舞台となったダ
 ## 使用素材クレジット
 * **グラフィック**：いらすとや 様
 * **BGM**：魔王魂 様
-* **効果音**：効果音ラボ 様
 * **システム**：Unity Starter Assets - First Person Character Controller
 
 ## バグ報告・フィードバック
